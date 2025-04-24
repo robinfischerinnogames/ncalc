@@ -1,0 +1,6 @@
+{
+  "name": "com.innogames.ncalc",
+  "displayName": "NCalc Unity",
+  "version": "5.4.1",
+  "description": "NCalc is a .NET library for evaluating mathematical expressions."
+}
