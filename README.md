@@ -28,6 +28,14 @@ including static or dynamic parameters and custom functions. NCalc targets .NET 
 
 ## Docs
 
+# Unity
+
+Add this to your `manifest.json` to use it in Unity
+
+```
+"com.ncalc.ncalc-unity": "https://github.com/robinfischerinnogames/ncalc.git?path=Unity"
+```
+
 Need help or want to learn more? [Check our docs.](https://ncalc.github.io/ncalc)
 
 ## Learn more
